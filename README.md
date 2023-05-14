@@ -5,7 +5,7 @@
 
 🧑‍🎓 I'm a fourth year college student studying computer science.
 
-<table>
+<p align="center"><table>
   <tr>
     <td>Total visitors</td>
     <td><img src="https://profile-counter.glitch.me/soso0024/count.svg" alt="" /></td>
