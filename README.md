@@ -5,6 +5,13 @@
 
 🧑‍🎓 I'm a fourth year college student studying computer science.
 
+<table>
+  <tr>
+    <td>Total visitors</td>
+    <td><img src="https://profile-counter.glitch.me/soso0024/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/5os515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5OS515" height="80" width="70" /></a>
