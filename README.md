@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soso0024" alt="soso0024" /></a> </p>
 
-- 🧑‍🎓 I'm a fourth year college student studying computer science.
+- 🧑‍🎓 I'm a fourth year college student studying computer science
+- 💪 I'm currently learning Python, Docker, AWS
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
