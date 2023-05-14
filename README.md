@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soso</h1>
 <h3 align="center">brain-muscle college student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soso0024" alt="soso0024" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soso0024" alt="soso0024" /></a> </p>
 
 🧑‍🎓 I'm a fourth year college student studying computer science.
 
