@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soso</h1>
-<h3 align="center">brain-muscle college student</h3>
+<h3 align="center">brain-muscle university student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soso0024&label=Profile%20views&color=0e75b6&style=flat" alt="soso0024" /> </p>
 
