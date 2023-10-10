@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soso</h1>
-<h3 align="center">brain-muscle university student</h3>
+<h3 align="center">ECN university student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soso0024&label=Profile%20views&color=0e75b6&style=flat" alt="soso0024" /> </p>
 
@@ -7,11 +7,6 @@
 
 - 🧑‍🎓 I'm a fourth year college student studying computer science
 - 💪 I'm currently learning Python, Docker, AWS
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/5os515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5os515" height="80" width="70" /></a>
-</p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> </p>
