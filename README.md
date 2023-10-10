@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Soso</h1>
 <h3 align="center">ECN university student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soso0024&label=Profile%20views&color=0e75b6&style=flat" alt="soso0024" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soso0024" alt="soso0024" /></a> </p>
 
 - 🧑‍🎓 I'm a fourth year college student studying computer science
-- 💪 I'm currently learning Python, Docker, AWS
+- 💪 I'm currently learning C++
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> </p>
