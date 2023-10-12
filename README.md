@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soso</h1>
+<h1 align="center">Hi 👋, I'm IPPO</h1>
 <h3 align="center">ECN university student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soso0024" alt="soso0024" /></a> </p>
