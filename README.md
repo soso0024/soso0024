@@ -30,11 +30,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="left">
+<!---<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soso0024&show_icons=true&locale=en&layout=compact" alt="soso0024's GitHub Stats" />
-</p>
+</p>--->
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soso0024&" alt="soso0024's GitHub Streaks"/>
 </p>
 
