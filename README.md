@@ -1,16 +1,51 @@
-<h1 align="center">Hi 👋, I'm IPPO</h1>
-<h3 align="center">ECN university student</h3>
+<h1 align="center">👋 Hi there, I'm IPPO</h1>
+<h3 align="center">🎓 ECN University Student | 💻 Aspiring Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soso0024" alt="soso0024" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=soso0024" alt="soso0024's GitHub Trophies" />
+  </a>
+</p>
 
-- 🧑‍🎓 I'm a fourth year college student studying computer science
-- 💪 I'm currently learning C++
+---
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
+### 📚 About Me 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soso0024&show_icons=true&locale=en&layout=compact" alt="soso0024" /></p>
+- 🧑‍🎓 I'm a fourth-year college student studying computer science.
+- 💪 Currently learning **C++**.
+- 🌱 Interested in **Backend Engineer**.
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soso0024&show_icons=true&locale=en" alt="soso0024" /></p> -->
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soso0024&" alt="soso0024" /></p>
+### 🛠 Languages and Tools
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
+  </a>
+  <!-- Add more icons here -->
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soso0024&show_icons=true&locale=en&layout=compact" alt="soso0024's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soso0024&" alt="soso0024's GitHub Streaks"/>
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [sonishi0816@gmail.com](mailto:sonishi0816@gmail.com)
+<!---
+// - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+// - 🌐 Portfolio: [Your Portfolio](https://your-portfolio.com)
+--->
+
+
