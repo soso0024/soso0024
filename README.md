@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soso0024&show_icons=true&locale=en&layout=compact" alt="soso0024's GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soso0024&" alt="soso0024's GitHub Streaks"/>
 </p>
 
