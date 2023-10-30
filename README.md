@@ -25,7 +25,7 @@
   </a>
   <!-- Add more icons here -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="70" height="70"/>
+    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="60" height="60"/>
   </a>
 </p>
 
