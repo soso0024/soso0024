@@ -11,7 +11,7 @@
 
 ### 📚 About Me 
 
-- 🧑‍🎓 I'm a fourth-year college student studying computer science.
+- 🧑‍🎓 I'm a fourth-year university student studying **computer science** and **robotics**.
 - 💪 Currently learning **C++**.
 - 🌱 Interested in **Backend Engineer**.
 
