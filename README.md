@@ -17,10 +17,16 @@
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Learning Languages and Tools
 
 <p align="left">
-  <a href="https://github.com//" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="70" height="70"/>
+  </a>
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cpp" width="70" height="70"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="github" width="80" height="80"/>
   </a>
   <!-- Add more icons here -->
