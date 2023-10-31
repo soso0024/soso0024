@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm IPPO</h1>
-<h3 align="center">🎓 ECN University Student | 💻 Aspiring Developer</h3>
+<h3 align="center">🎓 [ECN](https://www.ec-nantes.fr/english-version) University Student | 💻 Aspiring Developer</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
