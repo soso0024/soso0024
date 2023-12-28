@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm IPPO</h1>
+<h1 align="center">👋 Hi there, I'm So</h1>
 <h3 align="center">🎓 <a href="https://www.ec-nantes.fr/english-version">ECN</a> University Student | 💻 Aspiring Developer</h3>
 
 <p align="center">
