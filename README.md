@@ -11,8 +11,8 @@
 
 ### 📚 About Me 
 
-- 🧑‍🎓 I'm a fourth-year university student studying **computer science** and **robotics**.
-- 💪 Currently learning **C++**.
+- 🤖 I'm a fourth-year university student studying **robotics**.
+- 💪 Currently learning **Python**.
 <!-- - 🌱 Interested in ???. -->
 
 ---
