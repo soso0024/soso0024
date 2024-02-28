@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm So</h1>
-<h3 align="center">🎓 <a href="https://www.ec-nantes.fr/english-version">ECN</a> University Student | 💻 Aspiring Developer</h3>
+<h3 align="center">🎓 <a href="https://www.ec-nantes.fr/english-version">ECN</a> University Student </h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
