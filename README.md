@@ -13,7 +13,7 @@
 
 - 🧑‍🎓 I'm a fourth-year university student studying **computer science** and **robotics**.
 - 💪 Currently learning **C++**.
-- 🌱 Interested in **Backend Engineer**.
+<!-- - 🌱 Interested in ???. -->
 
 ---
 
