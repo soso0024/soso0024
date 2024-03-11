@@ -11,7 +11,7 @@
 
 ### 📚 About Me 
 
-- 🤖 I'm a fourth-year university student studying **robotics**.
+- 🤖 I'm a master student studying **robotics**.
 - 💪 Currently learning **Python**.
 <!-- - 🌱 Interested in ???. -->
 
