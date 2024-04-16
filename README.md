@@ -1,12 +1,6 @@
 <h1 align="center">👋 Hi there, I'm So</h1>
 <h3 align="center">🎓 <a href="https://www.ec-nantes.fr/english-version">ECN</a> University Student </h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soso0024" alt="soso0024's GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 📚 About Me 
@@ -33,19 +27,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vscode" width="60" height="60"/>
   </a>
-</p>
-
-
----
-
-### 📈 GitHub Stats
-
-<!---<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soso0024&show_icons=true&locale=en&layout=compact" alt="soso0024's GitHub Stats" />
-</p>--->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soso0024&" alt="soso0024's GitHub Streaks"/>
 </p>
 
 ---
