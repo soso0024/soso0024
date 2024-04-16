@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi there, I'm So</h1>
 <h3 align="center">🎓 <a href="https://www.ec-nantes.fr/english-version">ECN</a> University Student </h3>
 
----
-
 ### 📚 About Me 
 
 - 🤖 I'm a master student studying **robotics**.
