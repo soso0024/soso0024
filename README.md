@@ -11,7 +11,7 @@
 
 ### 🛠 Learning Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=py,cpp,ros,matlab,aws,anaconda,linux,github,vscode,pycharm,linkedin,discord&theme=light&perline=3)
+![My Skills](https://skillicons.dev/icons?i=html,css,py,cpp,ros,matlab,aws,anaconda,linux,github,vscode,pycharm,linkedin,discord&theme=light&perline=3)
 
 ---
 
