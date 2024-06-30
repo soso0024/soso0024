@@ -4,14 +4,14 @@
 ### 📚 About Me 
 
 - 🤖 I'm a master student studying **robotics**.
-- 💪 Currently learning **Python** and **C++**, **ROS2**.
+- 💪 Currently learning **Python**.
 <!-- - 🌱 Interested in ???. -->
 
 ---
 
 ### 🛠 Learning Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=cpp,ros,aws,linux,github,vscode,pycharm,linkedin,discord&theme=light&perline=3)
+![My Skills](https://skillicons.dev/icons?i=py,cpp,ros,aws,linux,github,vscode,linkedin,discord&theme=light&perline=3)
 
 ---
 
