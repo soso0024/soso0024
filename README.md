@@ -31,6 +31,12 @@
 
 <iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soso0024/soso0024/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soso0024/soso0024/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/soso0024/soso0024/output/github-snake.svg" />
+</picture>
+
 ---
 
 ## 📫 How to Reach Me
