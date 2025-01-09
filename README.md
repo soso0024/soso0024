@@ -14,7 +14,7 @@
 
 ### ⚡ Fun fact
 
-- love leveraging the power of technology to solve everyday problems in creative ways.
+- Love leveraging the power of technology to solve everyday problems in creative ways.
 
 ### 🔗 Check out my experiences here:
 
