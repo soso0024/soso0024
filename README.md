@@ -25,7 +25,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,py,c,cpp,ros,react,vue,aws,linux,github&theme=light&perline=4)
 
-🙈 **To** **Be** **Honest**, **I’m** **Doing** **Like** **This…** 😂
+🙊 **This is Real...** 😮
 
 ![Funny GIF](https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif)
 
