@@ -1,18 +1,18 @@
-## 💫 About Me:
+## 💪 About Me:
 
-### 🛠 I’m currently working on
+### 🏫 I’m currently working on
 
 - Developing robotics and computer science projects, with a focus on innovative problem-solving and practical applications.
 
-### 🌱 I’m currently learning
+### 🎓 I’m currently learning
 
 - Utilizing cosine similarity for testing AI-generated code, exploring its applications in improving software quality and reliability.
 
-### 🧩 Ask me about
+### 🙋‍♂️ Ask me about
 
 - My experience as a **Double-Degree Student** at [École Centrale de Nantes](https://www.ec-nantes.fr/english-version) and [Doshisha University](https://www.doshisha.ac.jp/en/), and my ongoing exploration of robotics and computer science.
 
-### ⚡ Fun fact
+### 🥰 Fun fact
 
 - Love leveraging the power of technology to solve everyday problems in creative ways.
 
