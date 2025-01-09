@@ -21,6 +21,7 @@
 - 🌐 [Portfolio](https://so-onishi.vercel.app/)
 - 🍻 [LinkedIn](https://www.linkedin.com/in/so-onishi/)
 - 📱 [Wantedly](https://www.wantedly.com/id/so_onishi/)
+- 📝 [Zenn](https://zenn.dev/os515)
 
 ## 💻 Tech Stack:
 
