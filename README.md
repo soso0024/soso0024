@@ -41,9 +41,9 @@
 
 ## 📫 How to Reach Me
 
-- 🌐 [Portfolio](https://so-onishi.vercel.app/)
-- 📱 [Wantedly](https://www.wantedly.com/id/so_onishi)
 - 📧 Email: [sonishi0816@gmail.com](mailto:sonishi0816@gmail.com)
+- 🍻 [LinkedIn](https://www.linkedin.com/in/so-onishi/)
+- 📱 [Wantedly](https://www.wantedly.com/id/so_onishi/)
 
 ### 💰 You can help me by Donating
 
