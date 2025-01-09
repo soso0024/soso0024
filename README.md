@@ -19,7 +19,8 @@
 ### 🔗 Check out my experiences here:
 
 - 🌐 [Portfolio](https://so-onishi.vercel.app/)
-- 📱 [Wantedly](https://www.wantedly.com/id/so_onishi)
+- 🍻 [LinkedIn](https://www.linkedin.com/in/so-onishi/)
+- 📱 [Wantedly](https://www.wantedly.com/id/so_onishi/)
 
 ## 💻 Tech Stack:
 
