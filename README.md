@@ -29,7 +29,7 @@
 
 🙈 **To** **Be** **Honest**, **I’m** **Doing** **Like** **This…** 😂
 
-<iframe src="https://giphy.com/embed/0lGd2OXXHe4tFhb7Wh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Funny GIF](https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soso0024/soso0024/output/github-snake-dark.svg" />
