@@ -29,11 +29,11 @@
 
 ![Funny GIF](https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif)
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soso0024/soso0024/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soso0024/soso0024/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/soso0024/soso0024/output/github-snake.svg" />
-</picture> -->
+</picture>
 
 ---
 
