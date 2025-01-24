@@ -14,7 +14,7 @@
 
 ### 🥰 Fun fact
 
-- Love leveraging the power of technology to solve everyday problems in creative ways.
+- I'm fascinated by the idea of ​​using the power of technology to make people happy and working together as a team to achieve goals.
 
 ### 🔗 Check out my experiences here:
 
