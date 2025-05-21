@@ -25,7 +25,7 @@
 
 ## 💻 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,py,react,vue,ros,aws,linux,github&theme=light)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,ros,aws,linux,github&theme=light)
 
 <!-- if 並べたい場合 最後の行に &perline=6 を追加 -->
 
