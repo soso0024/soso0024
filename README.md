@@ -6,7 +6,7 @@
 
 ### 🎓 I’m currently learning
 
-- Utilizing cosine similarity for testing AI-generated code, exploring its applications in improving software quality and reliability.
+- ~Utilizing cosine similarity for testing AI-generated code, exploring its applications in improving software quality and reliability.~
 
 ### 🙋‍♂️ Ask me about
 
